@@ -4,7 +4,7 @@ name = "John Doe"
 age = 17
 
 # To construct a string with some values with a place holder
-print("Nama : %s, Age : %d" % (name, age))
+print("Name : %s, Age : %d" % (name, age))
 
 # it is too boring, how about you tell me your name and age :) but how ?
 #
